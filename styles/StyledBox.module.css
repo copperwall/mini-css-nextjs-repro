@@ -1,0 +1,9 @@
+.Wrapper {
+    border: .5rem dashed blue;
+    border-radius: .5rem;
+}
+
+.Title {
+    color: green;
+    font-size: 10rem;
+}
